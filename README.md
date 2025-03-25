@@ -86,6 +86,12 @@ This project would have not been possible without the use of some awesome assets
 
 For any issues you encounter, please open a new [GitHub Issue](https://github.com/devshareacademy/phaser-zelda-like-tutorial/issues) on this project.
 
-## Links
+## Playlist
 
 How to make a Zelda-like game https://www.youtube.com/playlist?list=PLmcXe0-sfoShPM_vCNsuumh7crnNaLCwX
+
+### Parts
+
+1. https://youtu.be/J90rwFHk_S8?si=CSl_ekoLvV5Q08yy
+2. https://youtu.be/njfe__n09Ow?si=g7Rgvv1xBMuMj1Ww
+3. https://youtu.be/0bGh3N50qM4?si=7pm-uNUlhj3-ug7y
