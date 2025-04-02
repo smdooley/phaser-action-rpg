@@ -92,10 +92,10 @@ How to make a Zelda-like game https://www.youtube.com/playlist?list=PLmcXe0-sfoS
 
 ### Parts
 
-1. https://youtu.be/J90rwFHk_S8?si=CSl_ekoLvV5Q08yy
-2. https://youtu.be/njfe__n09Ow?si=g7Rgvv1xBMuMj1Ww
-3. https://youtu.be/0bGh3N50qM4?si=7pm-uNUlhj3-ug7y
-4. https://youtu.be/2mqXDHCalrM?si=RvTPXGlIC6_sgCX4
-5. https://youtu.be/3U8hqoWnbCM?si=BBsKnh0ifrtBhIvp
-6. https://youtu.be/zbjJgQC77wE?si=8wEQC3qpLuBQrRKV
-7. https://youtu.be/6778mmmVMws?si=LnIyCSFRxpH7UxDv
+1. Project Setup https://youtu.be/J90rwFHk_S8?si=CSl_ekoLvV5Q08yy
+2. Player Setup https://youtu.be/njfe__n09Ow?si=g7Rgvv1xBMuMj1Ww
+3. Player Input https://youtu.be/0bGh3N50qM4?si=7pm-uNUlhj3-ug7y
+4. Input Testing https://youtu.be/2mqXDHCalrM?si=RvTPXGlIC6_sgCX4
+5. Base Component https://youtu.be/3U8hqoWnbCM?si=BBsKnh0ifrtBhIvp
+6. Player Movement https://youtu.be/zbjJgQC77wE?si=8wEQC3qpLuBQrRKV
+7. State Machine https://youtu.be/6778mmmVMws?si=LnIyCSFRxpH7UxDv
