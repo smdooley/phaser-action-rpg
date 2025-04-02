@@ -99,3 +99,4 @@ How to make a Zelda-like game https://www.youtube.com/playlist?list=PLmcXe0-sfoS
 5. Base Component https://youtu.be/3U8hqoWnbCM?si=BBsKnh0ifrtBhIvp
 6. Player Movement https://youtu.be/zbjJgQC77wE?si=8wEQC3qpLuBQrRKV
 7. State Machine https://youtu.be/6778mmmVMws?si=LnIyCSFRxpH7UxDv
+8. State Machine States https://youtu.be/deFxQ_Mboyg?si=DQYpEePXXt6TruPj
