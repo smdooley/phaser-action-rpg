@@ -1,4 +1,5 @@
 import Phaser from 'phaser';
+import { DIRECTION } from './common';
 
 /**
  * Utility function to ensure we handle the full possible range of types when checking a variable for a possible
@@ -17,4 +18,8 @@ export function isArcadePhysicsBody(body: Phaser.Physics.Arcade.Body | Phaser.Ph
   }
 
   return body instanceof Phaser.Physics.Arcade.Body;
+}
+
+export function isDirection(direction: string): direction is Direction {
+  return DIRECTION[direction] !== undefined;
 }
