@@ -102,3 +102,4 @@ How to make a Zelda-like game https://www.youtube.com/playlist?list=PLmcXe0-sfoS
 8. State Machine States https://youtu.be/deFxQ_Mboyg?si=DQYpEePXXt6TruPj
 9. Components https://youtu.be/H8DnsjTjZpM?si=e0Dnt7IwEON59_Cx
 10. Animation Component https://youtu.be/Ihrww8Bezvo?si=ix3BIT3fpdvh7XR6
+11. Base Character Class https://youtu.be/2v6KEyIyVrE?si=zDLnbndhX2ApH3yu
